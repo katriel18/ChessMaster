@@ -1,0 +1,3 @@
+Mon Apr 05 16:32:30 PET 2021 - A new chess game has been started. Player 1 (white) will play against Player 2 (black). BEGIN!
+Mon Apr 05 16:32:35 PET 2021 - osti.katriel.Knight @ (7, 6) ->  (5, 5)
+Mon Apr 05 16:32:35 PET 2021 - It is now Player 2's turn.
